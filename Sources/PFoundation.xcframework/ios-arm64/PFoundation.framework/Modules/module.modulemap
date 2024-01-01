@@ -1,0 +1,4 @@
+framework module PFoundation {
+  header "PFoundation-Swift.h"
+  requires objc
+}

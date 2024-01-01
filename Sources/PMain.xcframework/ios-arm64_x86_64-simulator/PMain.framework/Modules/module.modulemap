@@ -1,0 +1,4 @@
+framework module PMain {
+  header "PMain-Swift.h"
+  requires objc
+}

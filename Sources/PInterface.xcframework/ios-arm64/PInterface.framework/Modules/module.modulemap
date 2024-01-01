@@ -1,0 +1,4 @@
+framework module PInterface {
+  header "PInterface-Swift.h"
+  requires objc
+}
